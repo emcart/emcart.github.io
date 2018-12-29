@@ -1,4 +1,3 @@
-/* your styles go here */
 @charset "UTF-8";
 /*
 Theme Name: Tracks
@@ -69,7 +68,7 @@ body {
   font-family: "raleway", sans-serif;
   line-height: 1.5;
   color: #4d4d4d;
-  background: #222;
+  background: #38312f;
   -webkit-font-smoothing: antialiased;
   word-wrap: break-word;
   -ms-word-wrap: break-word;
@@ -83,7 +82,7 @@ body {
 }
 
 .main {
-  background: #222;
+  background: #38312f;
   padding-bottom: 1.5em;
   margin: 0 auto;
 }
@@ -103,12 +102,12 @@ p {
 
 a {
   text-decoration: none;
-  color: #222;
+  color: #38312f;
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
 a:link {
-  color: #222;
+  color: #38312f;
 }
 a:visited, a:hover, a:active, a:focus {
   color: black;
@@ -198,7 +197,7 @@ code {
 blockquote {
   margin: 1.5em 0;
   padding: 0 1.5em;
-  border-left: solid 0.75em #222;
+  border-left: solid 0.75em #38312f;
 }
 blockquote cite {
   display: block;
@@ -285,6 +284,11 @@ img {
   max-width: 100%;
 }
 
+article img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
 .wp-caption-text {
   margin: 0;
   color: #8c8c8c;
@@ -326,7 +330,7 @@ textarea {
 }
 
 input[type="submit"] {
-  background: #222;
+  background: #38312f;
   color: white;
   max-width: 22.2em;
   min-width: 11.1em;
@@ -376,7 +380,7 @@ a img {
 .skip-content {
   position: absolute;
   width: 100%;
-  background: #111;
+  background: #110800;
   color: #aaaaaa;
   text-align: center;
   padding: 0.375em;
@@ -517,8 +521,8 @@ a img {
   height: 100%;
   width: 100%;
   z-index: 19;
-  background-image: -webkit-linear-gradient(#222 26px, transparent 24px, transparent 24px);
-  background-image: linear-gradient(#222 26px, transparent 24px, transparent 24px);
+  background-image: -webkit-linear-gradient(#38312f 26px, transparent 24px, transparent 24px);
+  background-image: linear-gradient(#38312f 26px, transparent 24px, transparent 24px);
   background-size: 1px 48px;
   /* this is a 24px baseline grid */
   text-align: center;
@@ -616,7 +620,7 @@ a img {
     position: relative;
     z-index: 2;
     padding: 1.5em 5.55% 2.25em;
-    border-top: solid 0.75em #111;
+    border-top: solid 0.75em #110800;
   }
 
   .title-info {
@@ -717,7 +721,7 @@ a img {
     min-width: 100%;
     max-width: 220px;
     margin: 0 auto;
-    background: #111;
+    background: #110800;
     text-align: center;
     -webkit-transition: opacity 0.3s ease, -webkit-transform 0.3s ease;
             transition: opacity 0.3s ease, transform 0.3s ease;
@@ -824,7 +828,7 @@ a img {
   color: #aaaaaa;
 }
 .excerpt-meta a:hover, .entry-meta a:hover, .excerpt-meta a:active, .entry-meta a:active, .excerpt-meta a:focus, .entry-meta a:focus {
-  color: #222;
+  color: #38312f;
 }
 
 .excerpt-title, .entry-title {
@@ -840,7 +844,7 @@ a img {
   color: #4d4d4d;
 }
 .excerpt-title a:hover, .entry-title a:hover, .excerpt-title a:active, .entry-title a:active, .excerpt-title a:focus, .entry-title a:focus {
-  color: #222;
+  color: #38312f;
 }
 
 .excerpt-header, .entry-header {
@@ -872,7 +876,7 @@ a img {
   color: #4d4d4d;
 }
 .more-link:hover, .more-link:active, .more-link:focus {
-  color: #222;
+  color: #38312f;
 }
 .more-link:hover:after, .more-link:active:after, .more-link:focus:after {
   -webkit-transform: scaleX(1);
@@ -921,7 +925,7 @@ a img {
 /* 600 */
 @media all and (min-width: 37.5em) {
   .excerpt {
-    background: #111;
+    background: #110800;
     margin-bottom: 1.5em;
   }
   .excerpt:first-child {
@@ -1085,7 +1089,7 @@ a img {
 }
 
 .author-meta {
-  background: #222;
+  background: #38312f;
   color: white;
   padding: 1.5em;
   margin: 3em 0 0;
@@ -1198,7 +1202,7 @@ a img {
   .entry .featured-image:after {
     position: absolute;
     content: '';
-    background: #222;
+    background: #38312f;
     top: 0;
     bottom: 0;
     left: 0;
@@ -1331,7 +1335,7 @@ li.pingback:first-child {
   color: #4d4d4d;
 }
 .comment-author .author-name a:hover, .comment-author .author-name a:active, .comment-author .author-name a:focus {
-  color: #222;
+  color: #38312f;
 }
 .comment-author:after {
   content: ".";
@@ -1514,7 +1518,7 @@ li.pingback:first-child {
 }
 
 .design-credit {
-  background: #111;
+  background: #110800;
   color: #8c8c8c;
   padding: 0.75em 0;
   margin-top: 48px;
@@ -1878,7 +1882,7 @@ li.pingback:first-child {
   left: -6%;
   width: 112%;
   min-height: 3em;
-  background: #111;
+  background: #110800;
   padding: 0.375em 5.55%;
   margin: -0.75em 0 0;
   line-height: 0;
@@ -1951,7 +1955,7 @@ li.pingback:first-child {
   left: 0;
   padding: 1.5em;
   margin: 0;
-  background: #111;
+  background: #110800;
   -webkit-transition: all 0.3s ease;
           transition: all 0.3s ease;
 }
@@ -2028,7 +2032,7 @@ li.pingback:first-child {
     right: -70%;
     max-width: 200px;
     opacity: 0;
-    background: #111;
+    background: #110800;
     text-align: center;
     -webkit-transform: scale(0.95);
             transform: scale(0.95);
@@ -2091,7 +2095,7 @@ li.pingback:first-child {
   height: 100%;
   float: right;
   border: none;
-  background: #111;
+  background: #211810;
   font-size: 1em;
   padding: 0.75em;
   margin: 0 -12px 0 0;
@@ -2225,6 +2229,21 @@ li.pingback:first-child {
     margin-right: 0px !important;
   }
 }
+
+/**
+ * RSS Feed button on Categories & Tags
+ */
+.in-page-rss {
+   color: white !important;
+   opacity: 0.4;
+}
+
+.in-page-rss:hover {
+  color: white !important;
+  opacity: 1;
+}
+
+
 /**
  * 14.2 Galleries
  */
@@ -2310,28 +2329,28 @@ li.pingback:first-child {
   /* Search Icon */
 }
 .dark-header .site-title a {
-  color: #222;
+  color: #38312f;
 }
 .dark-header .site-title a:link, .dark-header .site-title a:visited, .dark-header .site-title a:hover, .dark-header .site-title a:active, .dark-header .site-title a:focus {
-  color: #222;
+  color: #38312f;
 }
 .dark-header .toggle-navigation {
-  color: #222;
+  color: #38312f;
 }
 .dark-header .site-header .site-description {
-  color: #222;
+  color: #38312f;
 }
 .dark-header .site-header .social-media-icons a {
-  color: #222;
+  color: #38312f;
 }
 .dark-header .site-header .social-media-icons a:link, .dark-header .site-header .social-media-icons a:visited {
-  color: #222;
+  color: #38312f;
 }
 .dark-header .site-header .social-media-icons a:hover, .dark-header .site-header .social-media-icons a:active, .dark-header .site-header .social-media-icons a:focus {
-  color: #222;
+  color: #38312f;
 }
 .dark-header .toggle-secondary-navigation {
-  color: #222;
+  color: #38312f;
 }
 .dark-header .menu-secondary-items a,
 .dark-header .menu-secondary-items a:link,
@@ -2339,10 +2358,10 @@ li.pingback:first-child {
 .dark-header .menu-secondary-items a:hover,
 .dark-header .menu-secondary-items a:active,
 .dark-header .menu-secondary-items a:focus {
-  color: #222;
+  color: #38312f;
 }
 .dark-header .site-header .search-form-container i {
-  color: #222;
+  color: #38312f;
 }
 .dark-header .site-header.toggled .site-title a {
   color: white;
@@ -2360,7 +2379,7 @@ li.pingback:first-child {
 /* 600px */
 @media all and (min-width: 37.5em) {
   .dark-header .menu-secondary-items:before {
-    color: #222;
+    color: #38312f;
   }
   .dark-header .menu-secondary-items ul {
     background: white;
@@ -2370,16 +2389,16 @@ li.pingback:first-child {
 @media all and (min-width: 50em) {
   .dark-header .menu-unset > ul a,
   .dark-header .menu-primary-items a {
-    color: #222;
+    color: #38312f;
   }
   .dark-header .menu-unset > ul a:link, .dark-header .menu-unset > ul a:visited,
   .dark-header .menu-primary-items a:link,
   .dark-header .menu-primary-items a:visited {
-    color: #222;
+    color: #38312f;
   }
   .dark-header .menu-unset > ul > li:after,
   .dark-header .menu-primary-items > li:after {
-    color: #222;
+    color: #38312f;
   }
   .dark-header .menu-unset > ul ul,
   .dark-header .menu-primary-items ul {
@@ -2413,7 +2432,7 @@ li.pingback:first-child {
   background: rgba(255, 255, 255, 0.2);
 }
 .background-image-active .site-footer {
-  background: #222;
+  background: #38312f;
 }
 
 /* background style textures */
@@ -2427,7 +2446,7 @@ li.pingback:first-child {
   border-color: transparent;
 }
 .background-texture-active .site-footer {
-  background: #222;
+  background: #38312f;
 }
 .background-texture-active .top-navigation {
   background: rgba(255, 255, 255, 0.2);
@@ -2605,42 +2624,6 @@ li.pingback:first-child {
   max-width: 1280px;
 }
 
-/* 600px */
-@media all and (min-width: 37.5em) {
-  #disqus_thread {
-    width: 88.88%;
-    margin: 0 auto;
-  }
-}
-/* 700px */
-@media all and (min-width: 43.75em) {
-  #disqus_thread {
-    padding: 1.5em 10%;
-  }
-}
-/* 900px */
-@media all and (min-width: 56.25em) {
-  #disqus_thread {
-    padding: 1.5em 14.66%;
-  }
-}
-/* 1100px */
-@media all and (min-width: 68.75em) {
-  #disqus_thread {
-    padding: 1.5em 17.435% 3em;
-  }
-}
-/* 1200px */
-@media all and (min-width: 75em) {
-  #disqus_thread {
-    padding: 1.5em 19.75% 3em;
-  }
-}
-@media all and (min-width: 1400px) {
-  #disqus_thread {
-    padding: 1.5em 285px 3em;
-  }
-}
 /* bbpress Styles */
 .bbpress.archive .main {
   width: 100%;
@@ -2661,7 +2644,7 @@ li.pingback:first-child {
 }
 #wp-bbp_topic_content-editor-container textarea,
 #wp-bbp_reply_content-editor-container textarea {
-  outline: solid 1px #222;
+  outline: solid 1px #38312f;
   margin-top: 1.5em !important;
 }
 
@@ -2675,7 +2658,7 @@ li.pingback:first-child {
 }
 
 .bbp-submit-wrapper button {
-  background: #222;
+  background: #38312f;
   color: white;
   max-width: 22.2em !important;
   min-width: 11.1em;
@@ -2710,14 +2693,3 @@ li.pingback:first-child {
     width: 500px !important;
   }
 }
-/*
-
-ATTENTION:
-
-Please do not edit this. Your changes will be overwritten when you update Tracks.
-
-If you want to make CSS edits, use the "Custom CSS" section in the Customizer instead (Appearance > Customize).
-
-If you want more information about customizing Tracks with CSS, check out this guide: https://www.competethemes.com/help/custom-css-tracks/
-
-*/
