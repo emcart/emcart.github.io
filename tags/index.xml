@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 猫叔|在路上...</title>
-    <link>http://www.maoshuppt.com/tags/</link>
+    <link>https://emcart.github.io/tags/</link>
     <description>Recent content in Tags on 猫叔|在路上...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="http://www.maoshuppt.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://emcart.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hello</title>
-      <link>http://www.maoshuppt.com/tags/hello/</link>
+      <link>https://emcart.github.io/tags/hello/</link>
       <pubDate>Sat, 29 Dec 2018 22:03:13 +0800</pubDate>
       
-      <guid>http://www.maoshuppt.com/tags/hello/</guid>
+      <guid>https://emcart.github.io/tags/hello/</guid>
       <description></description>
     </item>
     
     <item>
       <title>one</title>
-      <link>http://www.maoshuppt.com/tags/one/</link>
+      <link>https://emcart.github.io/tags/one/</link>
       <pubDate>Sun, 30 Dec 2018 08:39:17 +0800</pubDate>
       
-      <guid>http://www.maoshuppt.com/tags/one/</guid>
+      <guid>https://emcart.github.io/tags/one/</guid>
       <description></description>
     </item>
     
     <item>
       <title>two</title>
-      <link>http://www.maoshuppt.com/tags/two/</link>
+      <link>https://emcart.github.io/tags/two/</link>
       <pubDate>Sun, 30 Dec 2018 08:39:17 +0800</pubDate>
       
-      <guid>http://www.maoshuppt.com/tags/two/</guid>
+      <guid>https://emcart.github.io/tags/two/</guid>
       <description></description>
     </item>
     
