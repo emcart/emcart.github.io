@@ -6,10 +6,19 @@
     <description>Recent content in design on 猫叔|在路上...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 30 Dec 2018 08:39:17 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Dec 2018 20:48:28 +0800</lastBuildDate>
     
 	<atom:link href="https://emcart.github.io/categories/design/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello_hugo</title>
+      <link>https://emcart.github.io/post/hello_hugo/</link>
+      <pubDate>Sun, 30 Dec 2018 20:48:28 +0800</pubDate>
+      
+      <guid>https://emcart.github.io/post/hello_hugo/</guid>
+      <description>hello hugo!</description>
+    </item>
     
     <item>
       <title>Test1</title>
