@@ -2003,7 +2003,7 @@ li.pingback:first-child {
     padding: 0.5em 0;
   }
   .menu-secondary-items:before {
-    content: '//';
+    content: '>';
     margin-right: 16px;
     color: white;
     opacity: 0.4;
