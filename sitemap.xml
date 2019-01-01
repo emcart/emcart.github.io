@@ -3,73 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://emcart.github.io/post/hello_hugo/</loc>
-    <lastmod>2018-12-30T20:48:28+08:00</lastmod>
+    <loc>https://emcart.github.io/post/ppts/</loc>
+    <lastmod>2019-01-01T11:18:18+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://emcart.github.io/post/first/</loc>
-    <lastmod>2018-12-29T22:03:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emcart.github.io/post/%E5%85%B3%E4%BA%8E%E5%88%86%E7%B1%BB/</loc>
-    <lastmod>2018-12-29T22:03:13+08:00</lastmod>
+    <loc>https://emcart.github.io/post/shot/</loc>
+    <lastmod>2019-01-01T11:18:18+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://emcart.github.io/post/work1/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emcart.github.io/post/work2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emcart.github.io/post/work3/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emcart.github.io/post/work4/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emcart.github.io/post/work5/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emcart.github.io/post/work7/</loc>
-    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emcart.github.io/post/work8/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emcart.github.io/post/work9/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emcart.github.io/post/work10/</loc>
-    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emcart.github.io/post/my/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emcart.github.io/post/work11/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
   <url>
@@ -89,13 +34,13 @@
   
   <url>
     <loc>https://emcart.github.io/categories/ppt/</loc>
-    <lastmod>2018-12-29T22:03:13+08:00</lastmod>
+    <lastmod>2019-01-01T11:18:18+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://emcart.github.io/post/</loc>
-    <lastmod>2018-12-30T20:48:28+08:00</lastmod>
+    <lastmod>2019-01-01T11:18:18+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -105,50 +50,32 @@
   </url>
   
   <url>
-    <loc>https://emcart.github.io/categories/code/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://emcart.github.io/categories/design/</loc>
-    <lastmod>2018-12-30T20:48:28+08:00</lastmod>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://emcart.github.io/tags/hello/</loc>
-    <lastmod>2018-12-29T22:03:13+08:00</lastmod>
+    <loc>https://emcart.github.io/tags/%E6%89%8B%E6%9C%BA/</loc>
+    <lastmod>2019-01-01T11:18:18+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://emcart.github.io/tags/one/</loc>
-    <lastmod>2018-12-30T20:48:28+08:00</lastmod>
+    <loc>https://emcart.github.io/tags/%E6%91%84%E5%BD%B1/</loc>
+    <lastmod>2019-01-01T11:18:18+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://emcart.github.io/categories/photography/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://emcart.github.io/categories/travel/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://emcart.github.io/tags/two/</loc>
-    <lastmod>2018-12-30T20:48:28+08:00</lastmod>
+    <loc>https://emcart.github.io/categories/%E6%91%84%E5%BD%B1/</loc>
+    <lastmod>2019-01-01T11:18:18+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://emcart.github.io/</loc>
-    <lastmod>2018-12-30T20:48:28+08:00</lastmod>
+    <lastmod>2019-01-01T11:18:18+08:00</lastmod>
     <priority>0</priority>
   </url>
   

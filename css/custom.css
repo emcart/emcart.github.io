@@ -380,7 +380,7 @@ a img {
 .skip-content {
   position: absolute;
   width: 100%;
-  background: #110800;
+  background: #2c3e4f;
   color: #aaaaaa;
   text-align: center;
   padding: 0.375em;
@@ -620,7 +620,7 @@ a img {
     position: relative;
     z-index: 2;
     padding: 1.5em 5.55% 2.25em;
-    border-top: solid 0.75em #110800;
+    border-top: solid 0.75em #2c3e4f;
   }
 
   .title-info {
@@ -721,7 +721,7 @@ a img {
     min-width: 100%;
     max-width: 220px;
     margin: 0 auto;
-    background: #110800;
+    background: #2c3e4f;
     text-align: center;
     -webkit-transition: opacity 0.3s ease, -webkit-transform 0.3s ease;
             transition: opacity 0.3s ease, transform 0.3s ease;
@@ -925,7 +925,7 @@ a img {
 /* 600 */
 @media all and (min-width: 37.5em) {
   .excerpt {
-    background: #110800;
+    background: #2c3e4f;
     margin-bottom: 1.5em;
   }
   .excerpt:first-child {
@@ -1518,7 +1518,7 @@ li.pingback:first-child {
 }
 
 .design-credit {
-  background: #110800;
+  background: #2c3e4f;
   color: #8c8c8c;
   padding: 0.75em 0;
   margin-top: 48px;
@@ -1882,7 +1882,7 @@ li.pingback:first-child {
   left: -6%;
   width: 112%;
   min-height: 3em;
-  background: #110800;
+  background: #2c3e4f;
   padding: 0.375em 5.55%;
   margin: -0.75em 0 0;
   line-height: 0;
@@ -1955,7 +1955,7 @@ li.pingback:first-child {
   left: 0;
   padding: 1.5em;
   margin: 0;
-  background: #110800;
+  background: #2c3e4f;
   -webkit-transition: all 0.3s ease;
           transition: all 0.3s ease;
 }
@@ -2032,7 +2032,7 @@ li.pingback:first-child {
     right: -70%;
     max-width: 200px;
     opacity: 0;
-    background: #110800;
+    background: #2c3e4f;
     text-align: center;
     -webkit-transform: scale(0.95);
             transform: scale(0.95);

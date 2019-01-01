@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PPT on 猫叔|在路上...</title>
-    <link>https://emcart.github.io/categories/ppt/</link>
-    <description>Recent content in PPT on 猫叔|在路上...</description>
+    <title>手机 on 猫叔|在路上...</title>
+    <link>https://emcart.github.io/tags/%E6%89%8B%E6%9C%BA/</link>
+    <description>Recent content in 手机 on 猫叔|在路上...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 01 Jan 2019 11:18:18 +0800</lastBuildDate>
     
-	<atom:link href="https://emcart.github.io/categories/ppt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://emcart.github.io/tags/%E6%89%8B%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,6 +18,17 @@
       
       <guid>https://emcart.github.io/post/ppts/</guid>
       <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>手机摄影-构图</title>
+      <link>https://emcart.github.io/post/shot/</link>
+      <pubDate>Tue, 01 Jan 2019 11:18:18 +0800</pubDate>
+      
+      <guid>https://emcart.github.io/post/shot/</guid>
+      <description>&lt;h2 id=&#34;手机摄影-构图&#34;&gt;手机摄影-构图&lt;/h2&gt;
+
+&lt;p&gt;手机摄影的构图主要有如下几种：&lt;/p&gt;</description>
     </item>
     
   </channel>

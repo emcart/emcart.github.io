@@ -6,37 +6,29 @@
     <description>Recent content in Posts on 猫叔|在路上...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 30 Dec 2018 20:48:28 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 11:18:18 +0800</lastBuildDate>
     
 	<atom:link href="https://emcart.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello_hugo</title>
-      <link>https://emcart.github.io/post/hello_hugo/</link>
-      <pubDate>Sun, 30 Dec 2018 20:48:28 +0800</pubDate>
+      <title>PPT设计</title>
+      <link>https://emcart.github.io/post/ppts/</link>
+      <pubDate>Tue, 01 Jan 2019 11:18:18 +0800</pubDate>
       
-      <guid>https://emcart.github.io/post/hello_hugo/</guid>
-      <description>hello hugo!</description>
+      <guid>https://emcart.github.io/post/ppts/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>First</title>
-      <link>https://emcart.github.io/post/first/</link>
-      <pubDate>Sat, 29 Dec 2018 22:03:13 +0800</pubDate>
+      <title>手机摄影-构图</title>
+      <link>https://emcart.github.io/post/shot/</link>
+      <pubDate>Tue, 01 Jan 2019 11:18:18 +0800</pubDate>
       
-      <guid>https://emcart.github.io/post/first/</guid>
-      <description>Hello world!</description>
-    </item>
-    
-    <item>
-      <title>分类结果</title>
-      <link>https://emcart.github.io/post/%E5%85%B3%E4%BA%8E%E5%88%86%E7%B1%BB/</link>
-      <pubDate>Sat, 29 Dec 2018 22:03:13 +0800</pubDate>
-      
-      <guid>https://emcart.github.io/post/%E5%85%B3%E4%BA%8E%E5%88%86%E7%B1%BB/</guid>
-      <description>Hello world!
-hahah</description>
+      <guid>https://emcart.github.io/post/shot/</guid>
+      <description>&lt;h2 id=&#34;手机摄影-构图&#34;&gt;手机摄影-构图&lt;/h2&gt;
+
+&lt;p&gt;手机摄影的构图主要有如下几种：&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -46,96 +38,6 @@ hahah</description>
       
       <guid>https://emcart.github.io/post/work1/</guid>
       <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>This is a Standard Post</title>
-      <link>https://emcart.github.io/post/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>https://emcart.github.io/post/work2/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Another Awesome Post</title>
-      <link>https://emcart.github.io/post/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://emcart.github.io/post/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>A post without an Image</title>
-      <link>https://emcart.github.io/post/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>https://emcart.github.io/post/work4/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>A Totally Response Theme</title>
-      <link>https://emcart.github.io/post/work5/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
-      
-      <guid>https://emcart.github.io/post/work5/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Post with a Gallery</title>
-      <link>https://emcart.github.io/post/work7/</link>
-      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
-      
-      <guid>https://emcart.github.io/post/work7/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>A Post with lot of comments</title>
-      <link>https://emcart.github.io/post/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      
-      <guid>https://emcart.github.io/post/work8/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Blogging is Fun and Worthwhile</title>
-      <link>https://emcart.github.io/post/work9/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      
-      <guid>https://emcart.github.io/post/work9/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://emcart.github.io/post/work10/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      
-      <guid>https://emcart.github.io/post/work10/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hello world!</title>
-      <link>https://emcart.github.io/post/my/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://emcart.github.io/post/my/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://emcart.github.io/post/work11/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      
-      <guid>https://emcart.github.io/post/work11/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
     </item>
     
   </channel>
